@@ -1,6 +1,6 @@
 package one.digitalinnovation.digionebank
 
- class Pessoa {
+ open class Pessoa {
     var nome: String = "Luana"
 
     var cpf: String = "151.258.221-55"
