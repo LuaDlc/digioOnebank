@@ -13,6 +13,6 @@ fun main() {
     val pf = ClienteTipo.PF
     println(">> ${pf.name} - ${pf.descricao}")
 
-    val pj = CLienteTipo.PJ
+    val pj = ClienteTipo.PJ
     println(">> ${pj.name} - ${pj.descricao}")
 }
